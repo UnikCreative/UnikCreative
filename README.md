@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Joseph Umoren
-- 👀 I’m interested in Frontend and Blockchain
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
-- email => dejoesco@gmail.com 
+# Hello, I'm Joseph Umoren 👋
 
-<!---
-UnikCreative/UnikCreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineer with experience in frontend and currently advancing into backend development. I specialize in JavaScript and have a foundation in using React.js and Node.js frameworks.
+
+## 💡 Skills
+
+- Frontend Development: HTML, CSS, JavaScript, React, Angular, Nextjs.
+- Backend Development: Node.js, Express.js, Strapi.
+- Database: MongoDB, mySQL.
+- Version Control: Git, GitHub.
+
+## 📫 How to Reach Me
+
+LinkedIn: (https://www.linkedin.com/in/josephakp/)
+
+Feel free to connect with me on LinkedIn. I'm always open to collaboration and discussing exciting opportunities.
+
